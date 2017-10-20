@@ -1,10 +1,9 @@
 console.log("hello");
-alert("hi!");
+alert("A R E   Y O U   H U N G R Y  ?");
 
-document.getElementById('pop').innerHTML = "I put text here!";
 
-console.log(0.2345*1000);
-console.log(2+5);
-console.log(7/8);
-console.log(Math.random()*100);
 
+var menu = { first:"Recipies", second:"Videos", third:"Cooking Tips"};
+
+var menu = ["Recipies", "Videos", "Cooking Tips"];
+document.getElementById("demo").innerHTML = menu;
