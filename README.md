@@ -1,4 +1,4 @@
-https://stellou10.github.io/goodfood.html
+https://goodfood.github.io/goodfood.html
 
 
 This is a Hyper Island project about interactive websites. We supposed to creat a website according to our hobbies.
